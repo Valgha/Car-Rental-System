@@ -91,9 +91,11 @@ The project includes two key components:
 
 ## ⚙️ Installation & Setup  
 
-### 1️⃣ Clone the Repository  
+###  Clone the Repository  
 ```bash
 git clone https://github.com/Valgha/Car-Rental-System.git
 cd Car-Rental-System/CarRental
+
+
 
 
